@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": [
+    { "directory": "demo-nest-graphql", "changeProcessCWD": true },
+    { "directory": "demo-nest-react-uploader", "changeProcessCWD": true },
+    { "directory": "demo-nest-restful-crud", "changeProcessCWD": true }
+  ]
+}
